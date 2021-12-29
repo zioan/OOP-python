@@ -1,5 +1,5 @@
 from tkinter import *
-from backend import Database
+from bookstore.backend import Database
 
 database=Database("books.db")
 
